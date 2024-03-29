@@ -5,7 +5,7 @@
 - 📫 You can reach me by mobile numbers and my mail as follows:
 - Mobile: 8897451205, 7569948632
 - Email: venkateshgorla417@gmail.com
-- My Experience includes "I was completed two internships in Machine Learning" one is from "Atharvo" from Bangalore and another one is "Intrainz" and also received internship completed certificates for better performance and i also got good experience by working with industry mwntors.
+- My Experience includes "I was completed two internships in Machine Learning" one is from "Atharvo" from Bangalore and another one is "Intrainz" and also received internship completed certificates for better performance and i also got good experience by working with industry mentors.
 - ⚡ Fun fact: ...
 
 <!---
