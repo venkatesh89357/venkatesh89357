@@ -6,6 +6,9 @@
 - Mobile: 8897451205, 7569948632
 - Email: venkateshgorla417@gmail.com
 - My Experience includes "I was completed two internships in Machine Learning" one is from "Atharvo" from Bangalore and another one is "Intrainz" and also received internship completed certificates for better performance and i also got good experience by working with industry mentors.
+- I have done the following internships:
+- ![IBM Internship Certificate](https://github.com/venkatesh89357/venkatesh89357/assets/140168875/247e8aac-26e1-4215-80f4-7b0522e0469f)
+
 - ⚡ Fun fact: ...
 
 <!---
