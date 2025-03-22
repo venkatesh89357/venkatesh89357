@@ -14,7 +14,7 @@
 - ![image](https://github.com/user-attachments/assets/990fab5b-2b41-45d4-bda6-15318a48b97a)
 
 - ![networking-devices-and-initial-configuration](https://github.com/venkatesh89357/venkatesh89357/assets/140168875/8fdf3119-f726-4b79-8f90-4f86785943d7)
-- C:\Users\crb89\Desktop\Earned certificates\Earned certificates
+
 
 
 
